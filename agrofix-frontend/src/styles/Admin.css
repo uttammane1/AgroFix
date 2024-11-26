@@ -1,0 +1,16 @@
+.admin-dashboard {
+    padding: 20px;
+}
+
+.admin-links {
+    margin: 10px 0;
+    display: flex;
+    flex-direction: column;
+}
+
+.admin-links a {
+    margin-bottom: 10px;
+    font-size: 1.2rem;
+    color: #333;
+    font-weight: bold;
+}
