@@ -1,6 +1,7 @@
 import React, { useEffect, useState } from "react";
 import API from "../../services/api";
 
+
 const ProductCatalogue = () => {
     const [products, setProducts] = useState([]);
 
